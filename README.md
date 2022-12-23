@@ -1,7 +1,6 @@
 # Major mode for EPP templates
 
-This Emacs major mode can be used to edit Embedded Puppet (EPP) templates.
-Currently only a simple font-lock is implemented.
+This Emacs major mode can be used to edit Embedded Puppet (EPP) templates.  This minimalist mode only uses a single face to emphasize the template code between `<%` and `%>`. That's it.
 
 # Usage
 
